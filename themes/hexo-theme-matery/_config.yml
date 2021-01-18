@@ -213,18 +213,18 @@ profile:
 myProjects:
   enable: true
   data:
-    shardbatis:
-      icon: fas fa-file-alt
-      iconBackground: 'linear-gradient(to bottom right, #66BB6A 0%, #81C784 100%)'
-      url: https://github.com/rookiefly/shardbatis
-      desc: mybatis分表中间件.
+    url-shortener:
+        icon: fas fa-file-alt
+        iconBackground: 'linear-gradient(to bottom right, #9900FF 0%, #CC66FF 100%)'
+        url: https://github.com/rookiefly/url-shortener
+        desc: This is url shortener web service.
     mysql-dict:
       icon: fas fa-file-alt
       iconBackground: 'linear-gradient(to bottom right, #66BB6A 0%, #81C784 100%)'
       url: https://github.com/rookiefly/mysql-dict
       desc: 数据库数据字典生成应用 (Database Dictionary Generator).
     docker-awesome:
-        icon: fas fa-docker
+        icon: fas fa-file-alt
         iconBackground: 'linear-gradient(to bottom right, #F06292 0%, #EF5350 100%)'
         url: https://github.com/rookiefly/docker-awesome
         desc: This is dockerfile collections.
@@ -233,12 +233,6 @@ myProjects:
         iconBackground: 'linear-gradient(to bottom right, #29B6F6 0%, #1E88E5 100%)'
         url: https://github.com/rookiefly/dubbo-monitor-x
         desc: This is dubbo monitor.
-    url-shortener:
-        icon: fas fa-file-alt
-        iconBackground: 'linear-gradient(to bottom right, #29B6F6 0%, #1E88E5 100%)'
-        url: https://github.com/rookiefly/url-shortener
-        desc: This is url shortener web service.
-
 # config my skills informations in about page.
 # If you don't want to display this `My Skills` content, you can deactivate or delete this configuration.
 # 在“关于”页面配置"我的技能"信息，如果你不需要这些信息则可以将其设置为不激活或者将其删除.
