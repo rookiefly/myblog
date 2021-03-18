@@ -1,0 +1,6 @@
+[submodule "themes/hexo-theme-claudia"]
+	path = themes/hexo-theme-claudia
+	url = https://github.com/Haojen/hexo-theme-Claudia.git
+[submodule "themes/hexo-theme-next"]
+	path = themes/hexo-theme-next
+	url = https://github.com/theme-next/hexo-theme-next
